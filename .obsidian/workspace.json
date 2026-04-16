@@ -25,12 +25,14 @@
             "id": "7c0aecec1af8befa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HTB/Pasted image linux.png"
+                "file": "HTB/INTRO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image linux"
+              "icon": "lucide-file",
+              "title": "INTRO"
             }
           }
         ],
@@ -233,16 +235,16 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "364eed01b939fc76",
+  "active": "7c0aecec1af8befa",
   "lastOpenFiles": [
+    "HTB/.Pasted image linux.png",
     "HTB/INTRO.md",
     "HTB/Linux ..md",
     "HTB/Setting Up.md",
-    "HTB/Pasted image linux.png",
-    "later",
-    "later/Find.md",
-    "later/booting_process.excalidraw",
-    "later",
+    ".later",
+    ".later/Find.md",
+    ".later/booting_process.excalidraw",
+    ".later",
     "ttt.txt",
     "ttt",
     "test",
