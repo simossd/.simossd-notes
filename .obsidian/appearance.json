@@ -1,0 +1,12 @@
+{
+  "interfaceFontFamily": "DejaVu Sans",
+  "baseFontSize": 17,
+  "textFontFamily": "DejaVu Sans",
+  "enabledCssSnippets": [
+    "colors",
+    "hide-tab-line"
+  ],
+  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "Obsidianite"
+}

@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "7f787225c347a54c",
+    "type": "split",
+    "children": [
+      {
+        "id": "043c96d2c585f9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4c8c3dbddeebad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB_Start/Setting Up.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting Up"
+            }
+          },
+          {
+            "id": "7c0aecec1af8befa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "HTB/Pasted image linux.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image linux"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a74039d3ffa6e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eef5fe6e198baf0",
+        "type": "tabs",
+        "dimension": 78.01350048216008,
+        "children": [
+          {
+            "id": "364eed01b939fc76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37f3fc129d048485",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d0cc911a7481dbdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8813d4198908e99f",
+        "type": "tabs",
+        "dimension": 21.98649951783992,
+        "children": [
+          {
+            "id": "45862676a191decc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "10424350b623bef2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b5c95463662bc95",
+        "type": "tabs",
+        "dimension": 64.81481481481481,
+        "children": [
+          {
+            "id": "6f1f7733ce304638",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Networking/Subnetting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Subnetting"
+            }
+          },
+          {
+            "id": "71170c51114fcb77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ef5e09b80deb4dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networking/Subnetting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Subnetting"
+            }
+          },
+          {
+            "id": "71bbe03462466484",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Http.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Http"
+            }
+          },
+          {
+            "id": "bf4a90ec355480ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a8b20e5188f20cdd",
+        "type": "tabs",
+        "dimension": 35.18518518518518,
+        "children": [
+          {
+            "id": "9fa10d8f867ed010",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "publish:Publish changes...": true,
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "float-search:Search obsidian in modal view": false
+    }
+  },
+  "active": "364eed01b939fc76",
+  "lastOpenFiles": [
+    "HTB/INTRO.md",
+    "HTB/Linux ..md",
+    "HTB/Setting Up.md",
+    "HTB/Pasted image linux.png",
+    "later",
+    "later/Find.md",
+    "later/booting_process.excalidraw",
+    "later",
+    "ttt.txt",
+    "ttt",
+    "test",
+    "obsidian",
+    "Linux/Unconfirmed 132462.crdownload",
+    "Linux",
+    "HTB",
+    "Linux/Network Tools.md",
+    "Cars.md",
+    "Linux/Linux Logs.md",
+    "Web/JavaScript/Arrays.md",
+    "Web/JavaScript/DOM Manipulation.md",
+    "Web/JavaScript/Errors.md",
+    "Web/JavaScript/Functions&Parameters.md",
+    "Excalidraw/Impress-me.md",
+    "Project/rcp_document.md",
+    "Networking/DMZ.md",
+    "Linux/Disk & Filesystem/Swap.md",
+    "Linux/Booting Process.md",
+    "Linux/Text Processing.md",
+    "Project/B2BR.md",
+    "Linux/Package Management.md",
+    "Concepts/Bitwize.md",
+    "Linux/Bash/Bash.md",
+    "Linux/Web Servers.md",
+    "Linux/awk.md",
+    "Linux/kali-setup.md",
+    "Media/Pasted Image 20260406200602_187.png",
+    "Networking/Subnetting.md",
+    "Media/subnetting.png",
+    "Media/subneting2.png",
+    "Media/subneting.png",
+    "Media/Pasted Image 20260405182945_097.png",
+    "Media/settimeout.png",
+    "Media/Screenshot from 2026-04-01 03-37-13.png",
+    "Media/js_empty_var.png",
+    "Media/ARP3.png",
+    "Untitled.canvas"
+  ]
+}

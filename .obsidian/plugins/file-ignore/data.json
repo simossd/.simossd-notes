@@ -1,0 +1,10 @@
+{
+  "rules": "*.png\n/later\n.gitignore",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "*.png\n/later",
+    "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store"
+  ],
+  "lastBatch": null
+}
