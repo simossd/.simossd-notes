@@ -10,25 +10,25 @@
     "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store"
   ],
   "lastBatch": {
-    "id": "mo101e3e-hide",
-    "action": "hide",
-    "createdAt": 1776314917274,
-    "updatedAt": 1776314917335,
+    "id": "mo103xup-show",
+    "action": "show",
+    "createdAt": 1776315036193,
+    "updatedAt": 1776315036199,
     "rulesText": "*.png\nlater/\n.gitignore\n.obsidian",
     "plannedCount": 2,
-    "skippedProtected": 1,
+    "skippedProtected": 0,
     "skippedNested": 0,
     "skippedConflicts": 0,
     "completed": [
       {
-        "oldPath": "later",
-        "newPath": ".later",
-        "timestamp": 1776314917279
+        "oldPath": ".later",
+        "newPath": "later",
+        "timestamp": 1776315036194
       },
       {
-        "oldPath": "HTB/Pasted image linux.png",
-        "newPath": "HTB/.Pasted image linux.png",
-        "timestamp": 1776314917299
+        "oldPath": "HTB/.Pasted image linux.png",
+        "newPath": "HTB/Pasted image linux.png",
+        "timestamp": 1776315036197
       }
     ],
     "pending": [],
