@@ -1,8 +1,9 @@
 {
-  "rules": "*.png\n/later\n.gitignore",
+  "rules": "*.png\n/later\n.gitignore\n.obsidian",
   "ignoredFiles": [],
   "debug": false,
   "rulesHistory": [
+    "*.png\n/later\n.gitignore",
     "*.png\n/later",
     "node_modules/\ndist/\n.next/\n.cache/\n.DS_Store"
   ],
