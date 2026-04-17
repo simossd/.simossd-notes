@@ -67,7 +67,7 @@ AllowUsers cry0l1t3
 
 In this Example We :
 
-- **Disabled root login** via SSH
+- **Disabled root login** via SSH.
 - Changed SSH port to **4444**
 - Allowed access **only for user `cry0l1t3`**
 - Enabled **SSH key authentication only** (no passwords)
@@ -121,3 +121,6 @@ VMs = fully isolated but heavy
 VPS = rented VM on the internet
 
 _You can look deeper into containers later and see how they compare in real-world use..._
+
+
+Continue → [[Linux]]

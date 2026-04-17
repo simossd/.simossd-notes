@@ -6,7 +6,7 @@
 
 [Learning_pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
 
-"***Efficiency depends not only on the quality of information we find but on the usage of that information.*****"
+"***Efficiency depends not only on the quality of information we find but on the usage of that information.***"
 
 Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed.
 - People fear what might happen in the future while not considering the present
@@ -15,3 +15,5 @@ Fear is a state and the product of our imagination of the future and its consequ
 
 
 [BRAIN](https://gifdb.com/images/high/big-brain-working-b9mu8caiqv9swdzu.gif ) 
+
+Continue → [[Setting_Up]]

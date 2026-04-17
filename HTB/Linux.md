@@ -34,3 +34,21 @@ The Linux operating system is structured in a tree-like hierarchy and is documen
 
 ''Path''        ''Description''
 ![[File_system_desc.png]]
+
+### **Linux Distributions (Overview)**
+
+Linux distributions (distros) are different versions of the Linux operating system, all built on the same core (the Linux kernel) but customized with different tools, software, and configurations. Each distro is designed for specific needs, such as desktops, servers, or cybersecurity.
+
+They offer flexibility, security, and full control, which is why Linux is widely used across many environments. Popular examples include Ubuntu, Debian, Fedora, and Red Hat.
+
+The following are some commonly used distributions:
+
+- [Ubuntu](https://ubuntu.com/)
+- [Fedora](https://getfedora.org/)
+- [CentOS](https://www.centos.org/)
+- [Debian](https://www.debian.org/)
+- [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+
+Many users choose Linux for desktops because it is free, open-source, and highly customizable, with beginner-friendly options like Ubuntu and Fedora. It is also widely used on servers due to its stability, security, and regular updates. In cybersecurity, Linux is preferred because its open-source nature allows full control, customization, and optimization for specific use cases.
+
+Continue → [[Shell]]
