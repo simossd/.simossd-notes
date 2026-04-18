@@ -51,4 +51,4 @@ The following are some commonly used distributions:
 
 Many users choose Linux for desktops because it is free, open-source, and highly customizable, with beginner-friendly options like Ubuntu and Fedora. It is also widely used on servers due to its stability, security, and regular updates. In cybersecurity, Linux is preferred because its open-source nature allows full control, customization, and optimization for specific use cases.
 
-Continue → [[Shell]]
+Continue → [[Shell]] .

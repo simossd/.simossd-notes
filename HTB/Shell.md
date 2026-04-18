@@ -92,7 +92,7 @@ Understanding system information is essential when working with Linux, especiall
 
 The terminal provides various built-in tools to gather this information, with help options like `-h`, `--help`, and `man` available for guidance.
 
-This knowledge is important not only for everyday system usage but also for security purposes, such as analyzing configurations, identifying vulnerabilities, and assessing potential risks.
+This knowledge is important not only for everyday system usage but also for security purposes, such as analyzing configurations, identifying vulnerabilities, and assessing potential risks
 
 ![[system_infos_cmds.png]]
 

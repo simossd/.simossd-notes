@@ -123,4 +123,4 @@ VPS = rented VM on the internet
 _You can look deeper into containers later and see how they compare in real-world use..._
 
 
-Continue → [[Linux]]
+Continue → [[Linux]] .
