@@ -152,3 +152,15 @@ Since our shell is filled with some records, we can clean the shell with the com
 ![[cmd6.png]]
 
 Another way to clean up our terminal is to use the shortcut `[Ctrl] + [L]`. We can also use the arrow keys (`↑` or `↓`) to scroll through the command history, which will show us the commands that we have used before. But we also can search through the command history using the shortcut `[Ctrl] + [R]` and type some of the text that we are looking for.
+
+### **which**
+
+The `which` command is used to locate the path of an executable in the system. It shows where a program is stored and which version will be executed when called.
+
+This is useful for verifying if tools like Python, curl, or netcat are installed and accessible on the system.
+
+```shell
+simossd@htb[/htb]$ which python /usr/bin/python
+```
+
+If the program we search for does not exist, no results will be displayed.
