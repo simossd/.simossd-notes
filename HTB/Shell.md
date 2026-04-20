@@ -164,3 +164,11 @@ simossd@htb[/htb]$ which python /usr/bin/python
 ```
 
 If the program we search for does not exist, no results will be displayed.
+
+### **find**
+
+The `find` command is used to search for files and directories within the system. It can also filter results based on criteria such as name, size, type, or modification date.
+
+This makes it a powerful tool for quickly locating specific files or narrowing down search results efficiently.
+
+learn more about find -> [[HTB/Find|Find]]
