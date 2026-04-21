@@ -172,3 +172,31 @@ The `find` command is used to search for files and directories within the system
 This makes it a powerful tool for quickly locating specific files or narrowing down search results efficiently.
 
 learn more about find -> [[HTB/Find|Find]]
+
+### **locate**
+
+The `locate` command is used to quickly find files and directories by searching a prebuilt local database, making it faster than `find` for most searches.
+
+Because it relies on this database, results may not always reflect recent changes, so the database needs to be updated regularly.
+
+This makes `locate` ideal for fast searches when speed is more important than real-time accuracy.
+
+```shell
+simossd@htb[/htb]$ sudo updatedb
+```
+
+If we now search for all files with the "`.conf`" extension, you will find that this search produces results much faster than using `find`.
+
+```shell
+simossd@htb[/htb]$ locate *.conf 
+
+/etc/GeoIP.conf 
+/etc/NetworkManager/NetworkManager.conf 
+/etc/UPower/UPower.conf 
+/etc/adduser.conf 
+<SNIP>
+
+```
+
+However, this tool does not have as many filter options that we can use. So it is always worth considering whether we can use the `locate`
+command or instead use the `find` command. It always depends on what we are looking for.
