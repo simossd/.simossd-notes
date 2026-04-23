@@ -12,4 +12,15 @@ The goal is not depth in one place, but clarity across many topics, keeping ever
 
 ---
 
+### ⚠️ Important Note
+
+This documentation was created using Obsidian.
+
+For the best experience, it is highly recommended to view and use these notes within Obsidian.  
+Some features such as internal linking, graph view, formatting, and structure may not display correctly in standard text editors or directly on GitHub.
+
+Using Obsidian ensures the notes appear as intended and preserves the full workflow and navigation system.
+
+---
+
 Learn. Break. Repeat.
